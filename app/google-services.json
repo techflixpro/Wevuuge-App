@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "679478709411",
+    "firebase_url": "https://wevuuge.firebaseio.com",
+    "project_id": "wevuuge",
+    "storage_bucket": "wevuuge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679478709411:android:94bb1da1480ad9d48fc316",
+        "android_client_info": {
+          "package_name": "com.techflixpro.wevuuge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679478709411-ui6db7t1v4v6i1v3nca9qr2pha6i2avs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgKGXiXSZ7Io15WMogDzVgNYw62YZTygQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679478709411-ui6db7t1v4v6i1v3nca9qr2pha6i2avs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
