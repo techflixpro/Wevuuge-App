@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.techflixpro.wevuuge",
+    "sha256_cert_fingerprints":
+    ["12:1F:56:B1:40:36:B2:FA:3A:DB:05:D0:81:10:D8:A4:72:77:EB:E6:F4:96:09:B0:3E:8B:8F:37:E5:37:E0:3A"]
+  }
+}]
